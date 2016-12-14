@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "使用中间件（middleware）"
+title:  "使用中间件 (Middleware)"
 date:   2016-12-14 11:25:32 +0800
-categories: Once IO
+categories: OnceIO
 ---
 OnceIO 是一个自身功能极简，完全由路由、中间件和Handler构成的 web 开发框架：一个 OnceIO 应用本质上就是在调用各种中间件和Handler。  
   
